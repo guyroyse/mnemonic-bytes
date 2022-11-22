@@ -5,8 +5,8 @@ Mnemonic Bytes encode and decode binary data to and from mnemonic words using a 
 To install, do the `npm` thing:
 
 ```
-```
 $ npm install mnemonic-bytes
+```
 
 To use it, call `.encode` and `.decode`:
 
