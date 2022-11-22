@@ -10,4 +10,9 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ## 0.0.2 - 2022-11-21
 ### Changed
-- Corrected links to repo and README
+- Corrected links to repo and README.
+
+## 0.0.3 - 2022-11-21
+### Changed
+- Change interface to `.encode` to use `Bufferable` and `ArrayBuffer` instead of a host of `TypedArray`s.
+- Calls to `.encode` will now accept mixed-case values.
