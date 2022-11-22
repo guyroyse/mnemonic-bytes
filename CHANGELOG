@@ -7,3 +7,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 ## 0.0.1 - 2022-11-21
 ### Added
 - Added methods to encode and decode bytes in various formats to base-256 mnemoic phrases.
+
+## 0.0.2 - 2022-11-21
+### Changed
+- Corrected links to repo and README
