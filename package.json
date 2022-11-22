@@ -1,6 +1,6 @@
 {
   "name": "mnemonic-bytes",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Encode and decode binary data to and from mnemonic words using a base-256 encoding scheme.",
   "main": "./dist/index.cjs",
   "types": "./dist/index.d.ts",
@@ -11,8 +11,8 @@
     "dist/**/*"
   ],
   "type": "module",
-  "repository": "github:guyroyse/base-256",
-  "homepage": "https://github.com/guyroyse/base-256#readme",
+  "repository": "github:guyroyse/mnemonic-bytes",
+  "homepage": "https://github.com/guyroyse/mnemonic-bytes#readme",
   "scripts": {
     "build": "tsup",
     "test": "vitest --dir ./spec"
