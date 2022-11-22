@@ -2,13 +2,13 @@
 
 Mnemonic Bytes encode and decode binary data to and from mnemonic words using a base-256 encoding scheme. This is great for turning things like UUIDs, encryption keys, and wallet addresses into something that humans can actually remember and type.
 
-To install, just do the `npm` thing:
+To install, do the `npm` thing:
 
 ```
 ```
 $ npm install mnemonic-bytes
 
-To use it, just call `.encode` and `.decode`:
+To use it, call `.encode` and `.decode`:
 
 ```typescript
 import { encode, decode } from 'mnemonic-bytes'
