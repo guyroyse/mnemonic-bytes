@@ -1,6 +1,6 @@
 {
   "name": "mnemonic-bytes",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Encode and decode binary data to and from mnemonic words using a base-256 encoding scheme.",
   "main": "./dist/index.cjs",
   "types": "./dist/index.d.ts",
